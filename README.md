@@ -3,7 +3,6 @@
 ## 📋 Vue d'ensemble
 
 <aside>
-<img src="/icons/info-alternate_green.svg" alt="/icons/info-alternate_green.svg" width="40px" />
 
 Ce projet vise à développer une application de streaming musical complète, comprenant une API backend robuste et un backoffice ergonomique. L'accent est mis sur les performances, la scalabilité et les bonnes pratiques de développement modernes.
 
