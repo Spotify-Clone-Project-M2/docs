@@ -66,7 +66,6 @@ Vous créerez vos schémas en vous basant sur les instructions demandées dans l
     - Tri des pistes audio par ordre alphabétique du titre
 - **Recherche par mots-clés multiples** : Permettre aux utilisateurs de combiner plusieurs termes de recherche (artiste, titre, album, genre) pour affiner leurs résultats.
 - **Recherche phonétique** : Implémenter un algorithme de recherche phonétique pour trouver des résultats même si l'orthographe n'est pas exacte, particulièrement utile pour les noms d'artistes ou les titres étrangers.
-    
     <aside>
     💡
     
