@@ -4,13 +4,13 @@
 
 ### Backend
 
-- [ ]  Utilisation de Node.js
-- [ ]  Choix du framework :
-    - [ ]  Express.js
-- [ ]  Base de données :
+- [x]  Utilisation de Node.js
+- [x]  Choix du framework :
+    - [x]  Express.js
+- [x]  Base de données :
     - [ ]  MongoDB OU
-    - [ ]  PostgreSQL
-- [ ]  Système de cache Redis
+    - [x]  PostgreSQL
+- [x]  Système de cache Redis
 - [ ]  CDN configuré (CloudFront ou CloudFlare)
 - [ ]  Stockage cloud (S3 ou équivalent)
 - [ ]  Tests avec Jest
@@ -18,7 +18,7 @@
 
 ### Frontend (Application Principale)
 
-- [ ]  Utilisation de Next.js / React
+- [x]  Utilisation de Next.js / React
 - [ ]  Intégration de Redux Toolkit ou state management Global
 - [ ]  Styled Components pour le styling
 - [ ]  Configuration PWA complète
@@ -26,17 +26,17 @@
 
 ### Backoffice Admin
 
-- [ ]  Choix du framework :
+- [x]  Choix du framework :
     - [ ]  React
-    - [ ]  Next.js
+    - [x]  Next.js
 - [ ]  Intégration de Redux Toolkit ou state management Global
 - [ ]  Styled Components
 
 ## 🛠️ Configuration Projet (Pour les 3 Applications)
 
-- [ ]  ESLint + Prettier avec configuration stricte
-- [ ]  Husky pour pre-commit hooks
-- [ ]  Dockerfile et docker-compose.yml (optionnel)
+- [x]  ESLint + Prettier avec configuration stricte
+- [x]  Husky pour pre-commit hooks
+- [x]  Dockerfile et docker-compose.yml (optionnel)
 - [ ]  Configuration CI/CD
 - [ ]  Logging structuré (Winston ou Pino)
 - [ ]  Configuration par variables d'environnement
