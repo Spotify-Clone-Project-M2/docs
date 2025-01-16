@@ -21,8 +21,8 @@
 - [x]  Utilisation de Next.js / React
 - [ ]  Intégration de Redux Toolkit ou state management Global
 - [ ]  Styled Components pour le styling
-- [ ]  Configuration PWA complète
-- [ ]  Support i18n (internationalisation)
+- [x]  Configuration PWA complète
+- [x]  Support i18n (internationalisation)
 
 ### Backoffice Admin
 
@@ -107,7 +107,7 @@
 
 - [ ]  Dashboard temps réel
 - [ ]  KPIs configurables
-- [ ]  Thème sombre/clair
+- [x]  Thème sombre/clair
 - [ ]  Design responsive
 - [ ]  Feedback utilisateur clair
 - [ ]  Gestion états de chargement
